@@ -1,9 +1,22 @@
 # **Bridging Simulation and Reality: A Digital Twin Approach for UAVs**
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
-  <img src="H_Comparacion_Kinetic.gif" alt="GIF 1" width="250">
-  <img src="H_Comparacion_Com_din.gif" alt="GIF 2" width="250">
-  <img src="H_Comparacion_MPC.gif" alt="GIF 3" width="250">
+
+  <figure style="text-align: center;">
+    <img src="H_Comparacion_Kinetic.gif" alt="Kinematic Controller" width="250">
+    <figcaption>Kinematic Controller Comparison</figcaption>
+  </figure>
+
+  <figure style="text-align: center;">
+    <img src="H_Comparacion_Com_din.gif" alt="Dynamic Compensatio" width="250">
+    <figcaption>Dynamic Compensation Comparison</figcaption>
+  </figure>
+
+  <figure style="text-align: center;">
+    <img src="H_Comparacion_MPC.gif" alt="MPC" width="250">
+    <figcaption>MPC Controller Comparison</figcaption>
+  </figure>
+
 </div>
 
 ## **Description**
