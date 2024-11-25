@@ -1,9 +1,9 @@
 # **Bridging Simulation and Reality: A Digital Twin Approach for UAVs**
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img src="H_Comparacion_Kinetic.gif" alt="GIF 1" width="200">
-  <img src="H_Comparacion_Com_din.gif" alt="GIF 2" width="200">
-  <img src="H_Comparacion_MPC.gif" alt="GIF 3" width="200">
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
+  <img src="H_Comparacion_Kinetic.gif" alt="GIF 1" width="300">
+  <img src="H_Comparacion_Com_din.gif" alt="GIF 2" width="300">
+  <img src="H_Comparacion_MPC.gif" alt="GIF 3" width="300">
 </div>
 
 ## **Description**
