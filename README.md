@@ -59,8 +59,9 @@ The project uses standard Python libraries for robotics, data handling, and visu
 ## **Setup**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repository-name.git
-   cd your-repository-name
+   git clone https://github.com/bryansgue/A_Digital_Twin_Approach_for_UAVs
+   cd Dinamic_control_M100_py-main for dynamic control
+   cd MPC_UAV_ACADOS-main for MPC
    ```
 
 2. Install the required dependencies:
