@@ -1,5 +1,17 @@
 # **Bridging Simulation and Reality: A Digital Twin Approach for UAVs**
 
+
+
+## **Description**
+This project implements a digital twin framework for UAVs, integrating simulation and real-world experimentation. The focus is on validating and optimizing UAV controllers, particularly a Model Predictive Controller (MPC), developed using ACADOS and CASADI. The framework is built with Python and leverages ROS for communication and sensor data integration.  
+
+The repository includes:
+- Simulation models.
+- UAV controller implementations (kinematic, dynamic compensation, and MPC).
+- Scripts for trajectory-following experiments.
+- Tools for comparing simulated and experimental results.
+
+
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
 
   <div style="text-align: center;">
@@ -18,15 +30,6 @@
   </div>
 
 </div>
-
-## **Description**
-This project implements a digital twin framework for UAVs, integrating simulation and real-world experimentation. The focus is on validating and optimizing UAV controllers, particularly a Model Predictive Controller (MPC), developed using ACADOS and CASADI. The framework is built with Python and leverages ROS for communication and sensor data integration.  
-
-The repository includes:
-- Simulation models.
-- UAV controller implementations (kinematic, dynamic compensation, and MPC).
-- Scripts for trajectory-following experiments.
-- Tools for comparing simulated and experimental results.
 
 ---
 
